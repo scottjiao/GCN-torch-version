@@ -2,6 +2,6 @@
 PyTorch Implementation of Convolutional Graph Neural Network (GCNs).
 
 
-python platforms.py is just ok.
+"python platforms.py" in CMD is just ok.
 
 
